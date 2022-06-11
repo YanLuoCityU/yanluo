@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yan Luo
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD candidate in Data Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: City University of Hong Kong
+    url: https://www.cityu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include data mining in the epidemiology of aging, multimorbidity measurements and outcome prediction among older adults.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Mining
+  - Biostatistics
+  - Epidemiology of Aging
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD candidate in Data Science
+      institution: City University of Hong Kong
+      year: Sep 2022–present
+    - course: MSc in Epidemiology and Health Statistics
+      institution: Peking University
+      year: Sep 2020–Jul 2022
+    - course: BM in Preventive Medicine
+      institution: Peking University
+      year: Sep 2015–Jul 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
