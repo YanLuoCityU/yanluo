@@ -14,7 +14,7 @@ organizations:
     url: https://www.cityu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include data mining in the epidemiology of aging, multimorbidity measurements and outcome prediction among older adults.
+bio: My research interests include data mining and machine learning in the epidemiology of aging.
 
 # Interests to show in About widget
 interests:
