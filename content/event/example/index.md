@@ -1,21 +1,28 @@
 ---
-title: Development and validation of multimorbidity index predicting mortality among Chinese older adults
+title: Example Talk
 
-event: The Gerontological Society of America (GSA) 2021 Annual Scientific Meeting
-event_url: https://community.geosociety.org/gsa2021/home
+event: Wowchemy Conference
+event_url: https://example.org
 
-location: Online
+location: Wowchemy HQ
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
-abstract: 'This study aimed to construct a multimorbidity index among Chinese older adults. Participants aged 65-84 years (n=11,757) from the Chinese Longitudinal Healthy Longevity Survey (CLHLS). Fourteen self-reported chronic conditions were assessed at baseline. Outcome was all-cause mortality within five-year follow-up. We used restrictive association rules mining to identify the patterns of multiple chronic conditions associated with mortality. The weights of conditions and disease combinations were assigned using logistic regression adjusted by age and sex in training set. Multimorbidity index (MI) with individual diseases and multimorbidity index incorporating disease combinations (MIDC) were developed. We compared the performance of MI and MIDC with condition count and XGBoost algorithm in the validation set. There were no significant differences of c-statistics between condition count (0.687) and MI (0.692) or MIDC (0.689). The c-statistic of XGBoost algorithm (0.675) was the lowest among all models. The Integrated Discrimination Improvement (IDI) and categorical Net Reclassification Index (NRI) for MI (IDI: 0.01, P < 0.001; NRI: 0.01, P = 0.127), MIDC (IDI: 0.004, p = 0.002; NRI: 0.02, P = 0.033), and XGBoost model (IDI: 0.02, P < 0.001; NRI: 0.03, P = 0.004) were significantly positive compared with condition count. However, no significant differences for IDI and NRI were observed between MI and MIDC. Among Chinese older adults, weighted multimorbidity index with individual disease can better predict five-year mortality risk over condition count. There was little improvement in the predictive performance of the index after considering the joint effects of disease combinations.'
+summary: An example talk using Wowchemy's Markdown slides feature.
+abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-11-10EST11:00:00'
-date_end: '2021-11-13EST19:30:00'
+date: '2030-06-01T13:00:00Z'
+date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2021-12-17EST'
+publishDate: '2017-01-01T00:00:00Z'
 
 authors: []
 tags: []
@@ -23,6 +30,15 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
+
+links:
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
