@@ -11,8 +11,8 @@ abstract: 'This study aimed to construct a multimorbidity index among Chinese ol
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2021-11-10EST11:00:00'
+date_end: '2021-11-13EST19:30:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
