@@ -44,8 +44,8 @@ slides: ""
 ---
 Multimorbidity Index
 -----------------
-I developed a multimorbidity index incorporating disease combinations identified by the association rule mining to predict mortality using the logistic regression among 11,853 older Chinese adults.  
+* I developed a multimorbidity index incorporating disease combinations identified by the association rule mining to predict mortality using the logistic regression among 11,853 older Chinese adults.  
 
 Multimorbidity Measures Comparison
 -----------------
-Our group explored multimorbidity patterns by data mining methods including the explanatory factor analysis and the group-based trajectory model. Then, we compared the performance of different multimorbidity measures in predicting mortality and disability by Cox proportional hazards models.
+* Our group explored multimorbidity patterns by data mining methods including the explanatory factor analysis and the group-based trajectory model. Then, we compared the performance of different multimorbidity measures in predicting mortality and disability by Cox proportional hazards models.
