@@ -43,10 +43,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Multimorbidity and Frailty Transition
+**Multimorbidity and Frailty Transition**
 -----------------
 * I identified multimorbidity patterns using the latent class analysis and examined the association between multimorbidity patterns and dynamic frailty transitions among older American adults.
 
-Trajectory of Multimorbidity and Frailty
+**Trajectory of Multimorbidity and Frailty**
 -----------------
 * I investigated the longitudinal trajectories of multimorbidity and frailty.
