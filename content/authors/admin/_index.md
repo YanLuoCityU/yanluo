@@ -27,7 +27,7 @@ education:
   courses:
     - course: PhD student in Data Science
       institution: City University of Hong Kong
-      year: Sep 2022–present
+      year: Sep 2022–Present
     - course: MSc in Epidemiology and Health Statistics
       institution: Peking University
       year: Sep 2020–Jul 2022

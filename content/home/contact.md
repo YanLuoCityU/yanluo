@@ -25,15 +25,15 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: luoyan@bjmu.edu.cn
+  email: luo.yan@my.cityu.edu.hk
   address:
-    street: 83 Tat Chee Avenuel
+    street: Tat Chee Avenuel
     city: Kowloon Tong
     region: Hong Kong
-    postcode: '518057'
+    postcode: ''
     country: China
     country_code: CN
-  directions: Lau Ming Wai Academic Building
+  directions: ''
 
 design:
   columns: '2'
