@@ -42,4 +42,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-We analyzed a non-linear trend based on repeated panel data from 45,849 older Chinese adults using generalized estimation equation and natural cubic spline models.
+Our team conducted a longitudinal study has revealed a concerning rise in vision impairment among China’s oldest-old adults over the past two decades. Analyzing data from the Chinese Longitudinal Healthy Longevity Survey, We assessed vision using the Landolt-C chart and employed generalized estimating equation models incorporating a natural cubic spline to uncover nonlinear trends and contributing factors. The prevalence of vision impairment doubled from 1998 to 2011 and stabilized thereafter, with conditions like glaucoma and cataracts playing a significant role. These findings underscore the need for targeted prevention and management strategies to address this growing public health challenge.
