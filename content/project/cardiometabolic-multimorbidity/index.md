@@ -44,8 +44,8 @@ slides: ""
 ---
 **Cardiometabolic Multimorbidity and Outcomes**
 -----------------
-* Our group examined the associations between cardiometabolic multimorbidity and adverse health outcomes, including depressive symptoms and disability, by generalized estimation equation models among more than 20,000 Chinese adults.
+* Our team examined the associations between cardiometabolic multimorbidity and adverse health outcomes, including depressive symptoms and disability, by generalized estimation equation models among more than 20,000 Chinese adults.
 
 **Cardiometabolic Multimorbidity Transition**
 -----------------
-* I described the transitions of cardiometabolic disease, multimorbidity, and mortality utilizing multi-state Markov models among 17,250 older patients with hypertension. In addition, I investigated the literature related to multimorbidity patterns/clusters and the network analysis in the past five years; gained expertise in the complex network and overlapping community detection.
+* Our group described the transitions of cardiometabolic disease, multimorbidity, and mortality utilizing multi-state Markov models among 17,250 older patients with hypertension. In addition, we investigated the literature related to multimorbidity patterns/clusters and the network analysis in the past five years; gained expertise in the complex network and overlapping community detection.
