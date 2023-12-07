@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Associations between multimorbidity and frailty transitions among older Americans
+title: Comparing a new multimorbidity index with other multimorbidity measures for predicting disability trajectories
 subtitle: ''
 summary: ''
 authors:
