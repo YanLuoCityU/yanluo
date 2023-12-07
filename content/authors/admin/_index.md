@@ -6,7 +6,7 @@ title: Yan Luo
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Data Science
+role: PhD candidate in Data Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: https://www.cityu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include data mining and machine learning in the epidemiology of aging.
+bio: My research interests include machine learning and social determinants of aging.
 
 # Interests to show in About widget
 interests:
@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD student in Data Science
+    - course: PhD candidate in Data Science
       institution: City University of Hong Kong
       year: Sep 2022–Present
     - course: MSc in Epidemiology and Health Statistics
@@ -64,6 +64,6 @@ email: 'luoyan@bjmu.edu.cn'
 highlight_name: true
 ---
 
-Yan Luo is a PhD student of Data Science at City University of Hong Kong. His research interests center on data mining and machine learning in the epidemiology of aging, especially the development of multimorbidity measurements and adverse health-related outcome prediction among older populations.
+Yan Luo received his BM and MS degrees in epidemiology and biostatistics from the School of Public health, Peking University in 2020 and 2022, respectively. He is a PhD candidate at the School of Data Science, City University of Hong Kong. His research interests include machine learning and social determinants of aging.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

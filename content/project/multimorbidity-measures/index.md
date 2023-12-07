@@ -44,7 +44,7 @@ slides: ""
 ---
 **Multimorbidity Index**
 -----------------
-* I developed a multimorbidity index incorporating disease combinations identified by the association rule mining to predict mortality using the logistic regression among 11,853 older Chinese adults.  
+* Our group developed a multimorbidity index incorporating disease combinations identified by the association rule mining to predict mortality using the logistic regression among 11,853 older Chinese adults.  
 
 **Multimorbidity Measures Comparison**
 -----------------

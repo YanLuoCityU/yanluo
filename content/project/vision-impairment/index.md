@@ -42,4 +42,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-I analyzed a non-linear trend based on repeated panel data from 45,849 older Chinese adults using generalized estimation equation and natural cubic spline models.
+We analyzed a non-linear trend based on repeated panel data from 45,849 older Chinese adults using generalized estimation equation and natural cubic spline models.
