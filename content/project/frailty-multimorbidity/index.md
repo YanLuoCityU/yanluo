@@ -43,7 +43,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-**Multimorbidity and Frailty Transition**
+**Multimorbidity and Frailty Transitions**
 -----------------
 * Our team utilized data from the National Health and Aging Trends Study spanning 2011-2019 to explore the relationship between multimorbidity patterns and frailty transitions in older Americans. We identified four distinct multimorbidity patterns by the latent class analysis and investigated the influences of multimorbidity characterized by condition counts and patterns on subsequent frailty transitions over follow-ups using the semi-Markov multi-state model. We found that multimorbidity was associated with dynamic transitions between frailty states and death among older American adults, and the associations varied across multimorbidity patterns. The findings could offer significant implications for public health policymakers in planning interventions and healthcare resources. They also might inform clinicians regarding providing targeted clinical treatment and health management based on multimorbidity patterns of older people.
 
