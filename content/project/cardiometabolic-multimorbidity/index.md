@@ -19,7 +19,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
@@ -44,7 +44,7 @@ slides: ""
 ---
 **Cardiometabolic Multimorbidity and Outcomes**
 -----------------
-* Our team examined the associations between cardiometabolic multimorbidity and adverse health outcomes, including depressive symptoms and disability, by generalized estimation equation models among more than 20,000 Chinese adults.
+* Our team examined the association between cardiometabolic diseases (CMDs) and depression among middle-aged and older Chinese individuals and found that the presence of multiple CMDs may elevate the risk of depressive symptoms. The study, which utilized data from over 18,000 participants in the China Health and Retirement Longitudinal Study, revealed that stroke, heart disease, and diabetes individually and cumulatively increased the likelihood of depression. Interestingly, hypertension and dyslipidemia were only associated with depression when present alongside other CMDs. These findings underscore the importance of integrated mental health care in managing multiple CMDs.
 
 **Cardiometabolic Multimorbidity Transition**
 -----------------
