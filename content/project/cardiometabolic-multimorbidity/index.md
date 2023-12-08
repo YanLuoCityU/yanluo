@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Cardiometabolic Multimorbidity"
-summary: "To determine the relationship of cardiometabolic multimorbidity with multiple adver health-related outcomes and explore the transitions of cardiometabolic disease and cardiometabolic multimorbidity."
+summary: "To determine the relationship of cardiometabolic multimorbidity with multiple adver health-related outcomes and explore the transitions of cardiometabolic disease and multimorbidity."
 authors: []
 tags:
   - Multimorbidity
