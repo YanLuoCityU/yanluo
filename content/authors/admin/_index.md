@@ -21,7 +21,7 @@ interests:
   - Machine learning
   - Deep learning
   - Social determinants
-  - Biomarker
+  - Biomarkers
 
 # Education to show in About widget
 education:
@@ -51,7 +51,7 @@ social:
     icon_pack: ai
     link: https://www.researchgate.net/profile/Yan-Luo-33
   - icon: github
-    icon_pack: fas
+    icon_pack: fab
     link: https://github.com/YanLuoCityU
 
 # Link to a PDF of your resume/CV.
