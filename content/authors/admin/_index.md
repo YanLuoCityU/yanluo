@@ -51,7 +51,7 @@ social:
     icon_pack: ai
     link: https://www.researchgate.net/profile/Yan-Luo-33
   - icon: github
-    icon_pack: ai
+    icon_pack: fas
     link: https://github.com/YanLuoCityU
 
 # Link to a PDF of your resume/CV.
@@ -68,6 +68,6 @@ email: 'luoyan@bjmu.edu.cn'
 highlight_name: true
 ---
 
-Yan Luo received his BM and MS degrees in epidemiology and biostatistics from the School of Public health, Peking University in 2020 and 2022, respectively. He is a PhD candidate at the School of Data Science, City University of Hong Kong. His research interests include machine learning and social determinants of aging.
+Yan Luo received his BM and MS degrees in epidemiology and biostatistics from the School of Public Health, Peking University in 2020 and 2022, respectively. He is a PhD candidate at the School of Data Science, City University of Hong Kong. His research focuses on using machine learning approaches to identify social determinants and biological markers of diseases and aging, aiming to improve population health.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
