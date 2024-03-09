@@ -8,7 +8,6 @@ tags:
   - Social determinants
   - Mental health
   - Frailty
-  - Intrinsic capacity
 categories: []
 date: '2022-09-01'
 date_end: 'current'

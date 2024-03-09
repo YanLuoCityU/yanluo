@@ -27,10 +27,18 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Epidemiology of Aging
-      tag: Epidemiology of Aging
-    - name: Clinical Epidemiology
-      tag: Clinical Epidemiology
+    - name: COVID
+      tag: COVID
+    - name: Frailty
+      tag: Frailty
+    - name: Mental health
+      tag: Mental health
+    - name: Multimorbidity
+      tag: Multimorbidity
+    - name: Vision impairment
+      tag: Vision impairment
+    - name: Social determinants
+      tag: Social determinants  
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

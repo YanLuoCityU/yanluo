@@ -5,8 +5,7 @@ title: "COVID-19 Mortality Risk Factors"
 summary: "To early identify high mortality risks among patients with severe COVID-19."
 authors: []
 tags:
-  - COVID-19
-  - Risk factors
+  - COVID
 categories: []
 date: '2020-02-01'
 date_end: '2020-07-31'
