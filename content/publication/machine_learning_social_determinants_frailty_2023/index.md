@@ -28,10 +28,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ['content/project/social-determinants/index.md']
+projects: ["social-determinants"]
 publishDate: '2023-12-11T06:57:46.407202Z'
 publication_types:
-- '2'
+- '3'
 abstract: ''
 publication: 'Preprint'
 doi: 10.2139/ssrn.4652504

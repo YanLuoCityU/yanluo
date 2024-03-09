@@ -6,8 +6,6 @@ summary: "To develop a multimorbidity index and compare the prediction perfermen
 authors: []
 tags:
   - Multimorbidity
-  - Epidemiology of Aging
-  - Data Mining
 categories: []
 date: '2020-11-01'
 date_end: '2022-02-28'

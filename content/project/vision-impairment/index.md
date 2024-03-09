@@ -5,8 +5,7 @@ title: "Vision Impairment"
 summary: "To describe trends in the prevalence of vision impairment among oldest-old Chinese populations."
 authors: []
 tags:
-  - Vision Impairment
-  - Epidemiology of Aging
+  - Vision impairment
 categories: []
 date: '2020-06-01'
 # date_end: '2022-02-28'

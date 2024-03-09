@@ -6,7 +6,7 @@ summary: "To early identify high mortality risks among patients with severe COVI
 authors: []
 tags:
   - COVID-19
-  - Clinical Epidemiology
+  - Risk factors
 categories: []
 date: '2020-02-01'
 date_end: '2020-07-31'
