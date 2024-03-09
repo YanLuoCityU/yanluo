@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Social determinants of health"
-summary: "To identify social determinants of frailty, mental health, and intrinsic capacity."
+title: "Social Determinants of Health"
+summary: "To identify social determinants of mental health, frailty, and intrinsic capacity."
 authors: []
 tags:
   - Social determinants
+  - Mental health
   - Frailty
   - Intrinsic capacity
-  - mental health
 categories: []
 date: '2022-09-01'
 date_end: 'current'

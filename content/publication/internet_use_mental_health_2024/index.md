@@ -31,7 +31,7 @@ image:
 projects: ['content/project/social-determinants/index.md']
 publishDate: '2024-03-08T06:57:46.407202Z'
 publication_types:
-- '2'
+- '3'
 abstract: ''
 publication: 'Preprint'
 doi: 10.21203/rs.3.rs-3682539/v1
