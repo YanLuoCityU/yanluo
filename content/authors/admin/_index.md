@@ -14,13 +14,14 @@ organizations:
     url: https://www.cityu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning and social determinants of aging.
+bio: My research focuses on using machine learning approaches to identify social determinants and biological markers of diseases and aging, aiming to improve population health.
 
 # Interests to show in About widget
 interests:
-  - Data Mining
-  - Biostatistics
-  - Epidemiology of Aging
+  - Machine learning
+  - Deep learning
+  - Social determinants
+  - Biomarker
 
 # Education to show in About widget
 education:
@@ -49,6 +50,9 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Yan-Luo-33
+  - icon: github
+    icon_pack: ai
+    link: https://github.com/YanLuoCityU
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
