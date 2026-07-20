@@ -6,6 +6,7 @@ permalink: /publication/2022-03-10-relationship-between-obesity-and-death-by-mul
 date: 2022-03-10
 venue: 'Chinese Journal of Epidemiology'
 paperurl: 'https://doi.org/10.3760/cma.j.cn112338-20210831-00697'
+authors: 'Hexuan Su, Zishuo Chen, Huiwen Xu, <strong>Yan Luo</strong>, Kaipeng Wang, Yonghua Hu, Beibei Xu'
 citation: 'Relationship between obesity and death by multi-morbidity status in older adults in China. Chinese Journal of Epidemiology. 2022.'
 source: orcid
 orcid_id: '0000-0002-9731-4983'

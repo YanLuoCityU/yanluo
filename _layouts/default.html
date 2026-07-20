@@ -11,7 +11,7 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body{% if page.author_profile == false or page.url == "/" %} class="{% if page.author_profile == false %}wide-layout{% endif %}{% if page.url == "/" %} home-layout{% endif %}"{% endif %}>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}

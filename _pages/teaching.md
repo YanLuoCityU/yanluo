@@ -1,8 +1,7 @@
 ---
 layout: single
-title: "Teaching"
 permalink: /teaching/
-author_profile: true
+author_profile: false
 ---
 
 ## SDSC3007 Advanced Statistics

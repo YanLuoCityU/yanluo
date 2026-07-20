@@ -2,7 +2,7 @@
 layout: single
 title: "Service"
 permalink: /service/
-author_profile: true
+author_profile: false
 ---
 
 <h2>Journal Reviewer</h2>

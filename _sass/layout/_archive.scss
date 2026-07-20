@@ -41,6 +41,7 @@
 
 .archive__item-title {
   margin-bottom: 0.25em;
+  font-size: 24px;
   font-family: $sans-serif-narrow;
 
   a + a {
@@ -59,7 +60,7 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  font-size: 20px;
 
   & + p {
     text-indent: 0;
@@ -121,7 +122,7 @@
 
   .archive__item-title {
     margin-top: 0.5em;
-    font-size: $type-size-5;
+    font-size: 24px;
   }
 
   .archive__item-excerpt {
@@ -146,7 +147,7 @@
 
     .archive__item-excerpt {
       display: block;
-      font-size: $type-size-6;
+      font-size: 20px;
     }
   }
 }

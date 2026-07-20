@@ -5,7 +5,7 @@ category: publication
 permalink: /publication/2022-03-01-multimorbidity-measures-differentially-predicted-mortality-among-older-chinese-adults-109307019
 date: 2022-03-01
 venue: 'Journal of Clinical Epidemiology'
-authors: '<strong>Yan Luo</strong>'
+authors: 'Shan-Shan Yao, Hui-Wen Xu, Ling Han, Kaipeng Wang, Gui-Ying Cao, Nan Li, <strong>Yan Luo</strong>, Yu-Ming Chen, He-Xuan Su, Zi-Shuo Chen, Zi-Ting Huang, Yong-Hua Hu, Beibei Xu'
 paperurl: 'https://doi.org/10.1016/j.jclinepi.2022.03.002'
 citation: 'Multimorbidity measures differentially predicted mortality among older Chinese adults. Journal of Clinical Epidemiology. 2022.'
 bibtexurl: '/files/orcid-bib/2022-03-01-multimorbidity-measures-differentially-predicted-mortality-among-older-chinese-adults-109307019.bib'

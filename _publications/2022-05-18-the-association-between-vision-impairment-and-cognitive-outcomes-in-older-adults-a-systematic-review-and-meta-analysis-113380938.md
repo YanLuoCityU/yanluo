@@ -5,7 +5,7 @@ category: publication
 permalink: /publication/2022-05-18-the-association-between-vision-impairment-and-cognitive-outcomes-in-older-adults-a-systematic-review-and-meta-analysis-113380938
 date: 2022-05-18
 venue: 'Aging & Mental Health'
-authors: '<strong>Yan Luo</strong>'
+authors: 'Gui-Ying Cao, Zi-Shuo Chen, Shan-Shan Yao, Kaipeng Wang, Zi-Ting Huang, He-Xuan Su, <strong>Yan Luo</strong>, Carson M. De Fries, Yong-Hua Hu, Beibei Xu'
 paperurl: 'https://doi.org/10.1080/13607863.2022.2077303'
 citation: 'The association between vision impairment and cognitive outcomes in older adults: a systematic review and meta-analysis. Aging & Mental Health. 2022.'
 bibtexurl: '/files/orcid-bib/2022-05-18-the-association-between-vision-impairment-and-cognitive-outcomes-in-older-adults-a-systematic-review-and-meta-analysis-113380938.bib'

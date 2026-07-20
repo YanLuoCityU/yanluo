@@ -1,38 +1,39 @@
 'Ageing research reviews':
-  impact_factor: '12.4'
+  impact_factor: '15.5'
   jcr_quartile: 'Q1'
 'Aging & Mental Health':
-  impact_factor: '2.4'
+  impact_factor: '2.9'
   jcr_quartile: 'Q2'
 'Frontiers in Aging Neuroscience':
-  impact_factor: '4.5'
-  jcr_quartile: 'Q1'
-'Humanities and Social Sciences Communications':
-  impact_factor: '3.6'
-'Innovation in Aging':
-  impact_factor: '4.3'
-  jcr_quartile: 'Q1'
-'Journal of Affective Disorders':
-  impact_factor: '4.9'
-  jcr_quartile: 'Q1'
-'Journal of cachexia, sarcopenia and muscle':
-  impact_factor: '9.1'
-  jcr_quartile: 'Q1'
-'Journal of Clinical Epidemiology':
   impact_factor: '5.2'
   jcr_quartile: 'Q1'
+'Humanities and Social Sciences Communications':
+  impact_factor: '4.8'
+  jcr_quartile: 'Q1'
+'Innovation in Aging':
+  impact_factor: '6.2'
+  jcr_quartile: 'Q1'
+'Journal of Affective Disorders':
+  impact_factor: '5.7'
+  jcr_quartile: 'Q1'
+'Journal of Cachexia, Sarcopenia and Muscle':
+  impact_factor: '9.9'
+  jcr_quartile: 'Q1'
+'Journal of Clinical Epidemiology':
+  impact_factor: '5.8'
+  jcr_quartile: 'Q1'
 'Journal of Global Health':
-  impact_factor: '4.3'
+  impact_factor: '5.5'
   jcr_quartile: 'Q1'
 'Journal of the American Geriatrics Society':
-  impact_factor: '4.5'
-  jcr_quartile: 'Q1'
+  impact_factor: '4.6'
+  jcr_quartile: 'Q2'
 'Journal of Thoracic Disease':
-  impact_factor: '1.9'
+  impact_factor: '2.3'
   jcr_quartile: 'Q3'
 'Nature Communications':
-  impact_factor: '15.7'
+  impact_factor: '18.1'
   jcr_quartile: 'Q1'
 'Nature Human Behaviour':
-  impact_factor: '15.9'
+  impact_factor: '17.5'
   jcr_quartile: 'Q1'

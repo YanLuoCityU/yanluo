@@ -5,7 +5,7 @@ category: publication
 permalink: /publication/2022-07-22-trends-in-the-prevalence-of-vision-impairment-among-the-oldest-old-chinese-population-from-1998-to-2018-116243210
 date: 2022-07-22
 venue: 'Journal of Global Health'
-authors: '<strong>Yan Luo</strong>'
+authors: '<strong>Yan Luo</strong>, Qin Zhang, Ling Han, Zhongchen Shen, Yuming Chen, Kaipeng Wang, Ziting Huang, Carson M. De Fries, Guiying Cao, Hexuan Su, Huiwen Xu, Zishuo Chen, Zeqin Ren, Yonghua Hu, Beibei Xu'
 paperurl: 'https://doi.org/10.7189/jogh.12.11006'
 citation: 'Trends in the prevalence of vision impairment among the oldest-old Chinese population from 1998 to 2018. Journal of Global Health. 2022.'
 bibtexurl: '/files/orcid-bib/2022-07-22-trends-in-the-prevalence-of-vision-impairment-among-the-oldest-old-chinese-population-from-1998-to-2018-116243210.bib'
