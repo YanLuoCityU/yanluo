@@ -30,6 +30,11 @@ highlights:
         title: "Eine einzige Blutuntersuchung kann Herzerkrankungen bis zu 15 Jahre vor ihrem Ausbruch vorhersagen"
         source: "Germanic.News"
         url: "http://ct.moreover.com/?a=59076001468&p=1pl&v=1&x=P9lqHWzdwnkG4nAV8JM7-A"
+      - priority: 8
+        title: "New AI blood test predicts heart disease 15 years early"
+        source: "ScienceDaily"
+        date: "July 19, 2026"
+        url: "https://www.sciencedaily.com/releases/2026/07/260716023603.htm"
     chinese_mentions:
       - priority: 1
         title: "港大研发“AI验血” 提前15年预测罹患心血管疾病风险"
