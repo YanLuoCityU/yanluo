@@ -44,6 +44,18 @@ highlights:
         title: "港大醫學院研發創新AI驗血 提前15年精準預測中風及冠心病"
         source: "巴士的報"
         url: "https://www.bastillepost.com/hongkong/article/15733168-%E6%B8%AF%E5%A4%A7%E9%86%AB%E5%AD%B8%E9%99%A2%E7%A0%94%E7%99%BC%E5%89%B5%E6%96%B0ai%E9%A9%97%E8%A1%80-%E6%8F%90%E5%89%8D15%E5%B9%B4%E7%B2%BE%E6%BA%96%E9%A0%90%E6%B8%AC%E4%B8%AD%E9%A2%A8%E5%8F%8A"
+      - priority: 3
+        title: "一管血能看见15年后的心脏？AI医疗正在把“早知道”变成“早点有办法”"
+        source: "罗辑思维"
+        url: "https://mp.weixin.qq.com/s/XKUznVQ91GOir7G1hDLjCQ"
+      - priority: 4
+        title: "港大研发“AI验血”，只需一次血液检测，即可精准预测未来罹患六种主要心血管疾病的风险，并可在病发前15年发出预警讯号"
+        source: "潇湘晨报"
+        url: "https://mp.weixin.qq.com/s/XEnhWn6-Sabnma5DZN84Ug"
+      - priority: 5
+        title: "AI+多组学提前15年预测心脏病，港大团队巧用UKB数据突破早筛瓶颈"
+        source: "Olink Proteomics"
+        url: "https://mp.weixin.qq.com/s/RFTRCIHoZ8dLqddKRWtQmw"
   internet-mental-health:
     summary: "This cross-national study covering adults aged 50 years and older in 23 countries showed that Internet use was consistently associated with better mental health, lower depressive symptoms, and higher life satisfaction, highlighting digital inclusion as a potential strategy for healthy ageing."
     english_mentions:

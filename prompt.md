@@ -120,3 +120,8 @@ Xu Beibei
 
 recent news去掉Dec 17, 2021: One paper is published in Innovation in Aging.
 Dec 17, 2021: One paper is published in Innovation in Aging.。
+
+几个链接的标题和公众号如下：
+https://mp.weixin.qq.com/s/RFTRCIHoZ8dLqddKRWtQmw： AI+多组学提前15年预测心脏病，港大团队巧用UKB数据突破早筛瓶颈，来自Olink Proteomics
+https://mp.weixin.qq.com/s/XEnhWn6-Sabnma5DZN84Ug：港大研发“AI验血”，只需一次血液检测，即可精准预测未来罹患六种主要心血管疾病的风险，并可在病发前15年发出预警讯号，来自潇湘晨报
+https://mp.weixin.qq.com/s/XKUznVQ91GOir7G1hDLjCQ：一管血能看见15年后的心脏？AI医疗正在把“早知道”变成“早点有办法”，罗辑思维
