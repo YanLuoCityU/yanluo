@@ -182,3 +182,23 @@ highlights:
         date: "19/11/2024"
         url: "https://news.sciencenet.cn/htmlnews/2024/11/534274.shtm"
         note: "转载澎湃新闻报道"
+      - priority: 10
+        title: "1.6亿老年人上网都在干啥？一文全面讲清"
+        source: "新华社"
+        url: "https://mp.weixin.qq.com/s/59JnDocMEoQwEsG41QL6bg"
+      - priority: 11
+        title: "网络“沉迷”，被误读了"
+        source: "中国新闻周刊"
+        url: "https://mp.weixin.qq.com/s/DiuowhsBBkF4bwSZ_Rr3Pw"
+      - priority: 12
+        title: "《自然》子刊：教老人上网很有必要！23国近9万中老年人研究显示，使用互联网与较少的抑郁症状和较好的生活满意度、自报告健康状况有关"
+        source: "奇点网"
+        url: "https://mp.weixin.qq.com/s/EHEmtXAyxWzCFK38rfbLvA"
+      - priority: 13
+        title: "《自然》：人类细胞图谱草图发布；肥胖的“记忆”让体重反弹；上网让50岁以上的人感到幸福 | 一周论文新鲜读"
+        source: "自然系列"
+        url: "https://mp.weixin.qq.com/s/UAw9RNNOf0L3lApjXYXNvg"
+      - priority: 14
+        title: "Nat Hum Behav︱香港大学张清鹏团队揭示使用互联网对中老年人心理健康的影响"
+        source: "逻辑神经科学"
+        url: "https://mp.weixin.qq.com/s/40TwI1KgG95LhWF70M07QQ"
