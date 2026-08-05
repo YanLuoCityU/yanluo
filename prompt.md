@@ -122,13 +122,13 @@ recent news去掉Dec 17, 2021: One paper is published in Innovation in Aging.
 Dec 17, 2021: One paper is published in Innovation in Aging.。
 
 几个链接的标题和公众号如下：
-https://mp.weixin.qq.com/s/RFTRCIHoZ8dLqddKRWtQmw： AI+多组学提前15年预测心脏病，港大团队巧用UKB数据突破早筛瓶颈，来自Olink Proteomics
+https://mp.weixin.qq.com/s/RFTRCIHoZ8dLqddKRWtQmw： AI+多组学提前15年预测心脏病，港大团队巧用UKB数据突破早筛瓶颈，来自Olink Proteomics，2026年2月10日
 https://mp.weixin.qq.com/s/XEnhWn6-Sabnma5DZN84Ug：港大研发“AI验血”，只需一次血液检测，即可精准预测未来罹患六种主要心血管疾病的风险，并可在病发前15年发出预警讯号，来自潇湘晨报
 https://mp.weixin.qq.com/s/XKUznVQ91GOir7G1hDLjCQ：一管血能看见15年后的心脏？AI医疗正在把“早知道”变成“早点有办法”，罗辑思维
 
 请在Positive association between Internet use and mental health among adults aged ≥50 years in 23 countries增加几个新闻链接：
-https://mp.weixin.qq.com/s/59JnDocMEoQwEsG41QL6bg：1.6亿老年人上网都在干啥？一文全面讲清，来自新华社
-https://mp.weixin.qq.com/s/DiuowhsBBkF4bwSZ_Rr3Pw：网络“沉迷”，被误读了，来自中国新闻周刊
-https://mp.weixin.qq.com/s/EHEmtXAyxWzCFK38rfbLvA：《自然》子刊：教老人上网很有必要！23国近9万中老年人研究显示，使用互联网与较少的抑郁症状和较好的生活满意度、自报告健康状况有关，来自奇点网
-https://mp.weixin.qq.com/s/UAw9RNNOf0L3lApjXYXNvg：《自然》：人类细胞图谱草图发布；肥胖的“记忆”让体重反弹；上网让50岁以上的人感到幸福 | 一周论文新鲜读，来自自然系列
-https://mp.weixin.qq.com/s/40TwI1KgG95LhWF70M07QQ：Nat Hum Behav︱香港大学张清鹏团队揭示使用互联网对中老年人心理健康的影响，来自逻辑神经科学
+https://mp.weixin.qq.com/s/59JnDocMEoQwEsG41QL6bg：1.6亿老年人上网都在干啥？一文全面讲清，来自新华社，2025年12月29日
+https://mp.weixin.qq.com/s/DiuowhsBBkF4bwSZ_Rr3Pw：网络“沉迷”，被误读了，来自中国新闻周刊，2025年1月3日
+https://mp.weixin.qq.com/s/EHEmtXAyxWzCFK38rfbLvA：《自然》子刊：教老人上网很有必要！23国近9万中老年人研究显示，使用互联网与较少的抑郁症状和较好的生活满意度、自报告健康状况有关，来自奇点网，2024年11月26日
+https://mp.weixin.qq.com/s/UAw9RNNOf0L3lApjXYXNvg：《自然》：人类细胞图谱草图发布；肥胖的“记忆”让体重反弹；上网让50岁以上的人感到幸福 | 一周论文新鲜读，来自自然系列，2024年11月25日
+https://mp.weixin.qq.com/s/40TwI1KgG95LhWF70M07QQ：Nat Hum Behav︱香港大学张清鹏团队揭示使用互联网对中老年人心理健康的影响，来自逻辑神经科学，2024年11月25日

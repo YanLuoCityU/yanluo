@@ -5,56 +5,63 @@ highlights:
       - priority: 1
         title: "HKUMed develops innovative AI tool: a single blood test can predict heart diseases up to 15 years before onset"
         source: "The University of Hong Kong Press Releases"
+        date: "12/03/2026"
         url: "http://www.hku.hk/press/news_detail_28986.html"
       - priority: 2
         title: "A single blood test can predict heart diseases up to 15 years before onset"
         source: "MedicalXpress"
+        date: "12/03/2026"
         url: "https://medicalxpress.com/news/2026-03-blood-heart-diseases-years-onset.html?src_id=alt"
       - priority: 3
         title: "AI Tool Can Predict Heart Diseases up to 15 Years Before Onset"
         source: "Technology Networks"
+        date: "16/03/2026"
         url: "http://ct.moreover.com/?a=59103539006&p=1pl&v=1&x=AH-YWcSsDvt55pwLgm2JwQ"
       - priority: 4
         title: "AI Multiomics Enhances Personalized Cardiovascular Disease Prediction"
         source: "ScienMag"
+        date: "03/02/2026"
         url: "https://scienmag.com/ai-multiomics-enhances-personalized-cardiovascular-disease-prediction/"
       - priority: 5
         title: "AI Multiomics Enhances Personalized Cardiovascular Disease Prediction"
         source: "Bioengineer.org"
+        date: "03/02/2026"
         url: "http://ct.moreover.com/?a=58777235466&p=1pl&v=1&x=N6Fm0azg8sMz3QCVOiHMbw"
       - priority: 6
         title: "Single Blood Test Predicts Heart Diseases 15 Years Before Onset"
         source: "Lab Medica"
+        date: "17/03/2026"
         url: "http://ct.moreover.com/?a=59108818205&p=1pl&v=1&x=afVfv7cJcDE6qXt6MDuFuw"
       - priority: 7
-        title: "Eine einzige Blutuntersuchung kann Herzerkrankungen bis zu 15 Jahre vor ihrem Ausbruch vorhersagen"
-        source: "Germanic.News"
-        url: "http://ct.moreover.com/?a=59076001468&p=1pl&v=1&x=P9lqHWzdwnkG4nAV8JM7-A"
-      - priority: 8
         title: "New AI blood test predicts heart disease 15 years early"
         source: "ScienceDaily"
-        date: "July 19, 2026"
+        date: "19/07/2026"
         url: "https://www.sciencedaily.com/releases/2026/07/260716023603.htm"
     chinese_mentions:
       - priority: 1
         title: "港大研发“AI验血” 提前15年预测罹患心血管疾病风险"
         source: "中国新闻网"
+        date: "12/03/2026"
         url: "https://www.chinanews.com.cn/dwq/2026/03-12/10585617.shtml"
       - priority: 2
         title: "港大醫學院研發創新AI驗血 提前15年精準預測中風及冠心病"
         source: "巴士的報"
+        date: "12/03/2026"
         url: "https://www.bastillepost.com/hongkong/article/15733168-%E6%B8%AF%E5%A4%A7%E9%86%AB%E5%AD%B8%E9%99%A2%E7%A0%94%E7%99%BC%E5%89%B5%E6%96%B0ai%E9%A9%97%E8%A1%80-%E6%8F%90%E5%89%8D15%E5%B9%B4%E7%B2%BE%E6%BA%96%E9%A0%90%E6%B8%AC%E4%B8%AD%E9%A2%A8%E5%8F%8A"
       - priority: 3
         title: "一管血能看见15年后的心脏？AI医疗正在把“早知道”变成“早点有办法”"
         source: "罗辑思维"
+        date: "03/08/2026"
         url: "https://mp.weixin.qq.com/s/XKUznVQ91GOir7G1hDLjCQ"
       - priority: 4
         title: "港大研发“AI验血”，只需一次血液检测，即可精准预测未来罹患六种主要心血管疾病的风险，并可在病发前15年发出预警讯号"
         source: "潇湘晨报"
+        date: "12/03/2026"
         url: "https://mp.weixin.qq.com/s/XEnhWn6-Sabnma5DZN84Ug"
       - priority: 5
         title: "AI+多组学提前15年预测心脏病，港大团队巧用UKB数据突破早筛瓶颈"
         source: "Olink Proteomics"
+        date: "10/02/2026"
         url: "https://mp.weixin.qq.com/s/RFTRCIHoZ8dLqddKRWtQmw"
   internet-mental-health:
     summary: "This cross-national study covering adults aged 50 years and older in 23 countries showed that Internet use was consistently associated with better mental health, lower depressive symptoms, and higher life satisfaction, highlighting digital inclusion as a potential strategy for healthy ageing."
@@ -185,20 +192,25 @@ highlights:
       - priority: 10
         title: "1.6亿老年人上网都在干啥？一文全面讲清"
         source: "新华社"
+        date: "29/12/2025"
         url: "https://mp.weixin.qq.com/s/59JnDocMEoQwEsG41QL6bg"
       - priority: 11
         title: "网络“沉迷”，被误读了"
         source: "中国新闻周刊"
+        date: "03/01/2025"
         url: "https://mp.weixin.qq.com/s/DiuowhsBBkF4bwSZ_Rr3Pw"
       - priority: 12
         title: "《自然》子刊：教老人上网很有必要！23国近9万中老年人研究显示，使用互联网与较少的抑郁症状和较好的生活满意度、自报告健康状况有关"
         source: "奇点网"
+        date: "26/11/2024"
         url: "https://mp.weixin.qq.com/s/EHEmtXAyxWzCFK38rfbLvA"
       - priority: 13
         title: "《自然》：人类细胞图谱草图发布；肥胖的“记忆”让体重反弹；上网让50岁以上的人感到幸福 | 一周论文新鲜读"
         source: "自然系列"
+        date: "25/11/2024"
         url: "https://mp.weixin.qq.com/s/UAw9RNNOf0L3lApjXYXNvg"
       - priority: 14
         title: "Nat Hum Behav︱香港大学张清鹏团队揭示使用互联网对中老年人心理健康的影响"
         source: "逻辑神经科学"
+        date: "25/11/2024"
         url: "https://mp.weixin.qq.com/s/40TwI1KgG95LhWF70M07QQ"
