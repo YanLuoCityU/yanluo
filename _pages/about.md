@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-{% assign group_photo = '/images/profile-20260318.png' | relative_url %}
+{% assign group_photo = '/images/profile.jpg' | relative_url %}
 {% assign recent_news = site.data.news | sort: 'date' | reverse %}
 {% assign research_highlights_media_url = '/research-highlights/media/' | relative_url %}
 {% assign sorted_publications = site.publications | sort: 'date' | reverse %}

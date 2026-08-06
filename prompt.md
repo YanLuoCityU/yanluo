@@ -132,3 +132,16 @@ https://mp.weixin.qq.com/s/DiuowhsBBkF4bwSZ_Rr3Pw：网络“沉迷”，被误�
 https://mp.weixin.qq.com/s/EHEmtXAyxWzCFK38rfbLvA：《自然》子刊：教老人上网很有必要！23国近9万中老年人研究显示，使用互联网与较少的抑郁症状和较好的生活满意度、自报告健康状况有关，来自奇点网，2024年11月26日
 https://mp.weixin.qq.com/s/UAw9RNNOf0L3lApjXYXNvg：《自然》：人类细胞图谱草图发布；肥胖的“记忆”让体重反弹；上网让50岁以上的人感到幸福 | 一周论文新鲜读，来自自然系列，2024年11月25日
 https://mp.weixin.qq.com/s/40TwI1KgG95LhWF70M07QQ：Nat Hum Behav︱香港大学张清鹏团队揭示使用互联网对中老年人心理健康的影响，来自逻辑神经科学，2024年11月25日
+
+请继续修改网页https://yanluocityu.github.io/research-highlights/media的部分，这里还保留着之前Yan Luo
+PhD Candidate in Data Science
+
+Hong Kong
+City University of Hong Kong
+Email
+Google Scholar
+ORCID
+ResearchGate
+GitHub
+LinkedIn
+的各种信息，请参考当前的Home、Publications等section，去掉这些信息
