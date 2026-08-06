@@ -145,3 +145,5 @@ ResearchGate
 GitHub
 LinkedIn
 的各种信息，请参考当前的Home、Publications等section，去掉这些信息
+
+请帮我修改teaching部分，去掉开头的SDSC3007 Advanced Statistics，然后参考mentoring的格式进行整理，即PhD Student换成City University of Hong Kong (Dongguan)，Open position换成待定（翻译成英文），Research Assistant换成City University of Hong Kong，Open position换成例如SDSC3007 Advanced Statistics (2023-2025)。另外，profile的照片显示还是不完全

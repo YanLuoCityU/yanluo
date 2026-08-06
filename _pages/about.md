@@ -79,7 +79,13 @@ redirect_from:
       </div>
     </div>
     <div class="home-hero__media">
-      <img src="{{ group_photo }}" alt="Yan Luo">
+      <img
+        src="{{ group_photo }}"
+        alt="Yan Luo"
+        width="6048"
+        height="4668"
+        style="width: min(100%, 520px); height: auto; max-height: none; object-fit: contain;"
+      >
     </div>
   </section>
 

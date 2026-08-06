@@ -2,16 +2,17 @@
 layout: single
 permalink: /teaching/
 author_profile: false
+hide_title: true
 ---
 
-## SDSC3007 Advanced Statistics
+<h2>City University of Hong Kong (Dongguan)</h2>
+<ul>
+  <li>To be determined</li>
+</ul>
 
-Undergraduate Teaching Assistant, *City University of Hong Kong*, 2023, 2024, 2025
-
-## SDSC3004 Computational Optimization
-
-Undergraduate Teaching Assistant, *City University of Hong Kong*, 2024
-
-## SDSC2004 Data Visualization
-
-Undergraduate Teaching Assistant, *City University of Hong Kong*, 2023
+<h2>City University of Hong Kong</h2>
+<ul>
+  <li>SDSC3007 Advanced Statistics (2023-2025)</li>
+  <li>SDSC3004 Computational Optimization (2024)</li>
+  <li>SDSC2004 Data Visualization (2023)</li>
+</ul>
